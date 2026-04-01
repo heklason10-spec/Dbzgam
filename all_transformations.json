@@ -1,0 +1,23 @@
+{
+  "transformations": [
+    {"name": "Kaioken", "description": "A technique that multiplies the user's power for a limited time."},
+    {"name": "Great Ape", "description": "A transformation that Saiyans undergo upon looking at the full moon."},
+    {"name": "Super Saiyan 1", "description": "The first level of Super Saiyan transformation, enhancing strength and speed."},
+    {"name": "Super Saiyan 2", "description": "An advanced form of Super Saiyan with greater power and speed."},
+    {"name": "Super Saiyan 3", "description": "A transformation with long hair that greatly increases power but drains energy quickly."},
+    {"name": "Super Saiyan 4", "description": "A form that combines Saiyan power with the primal fury of an ape."},
+    {"name": "Super Saiyan God", "description": "A transformation that grants divine power to a Saiyan."},
+    {"name": "Super Saiyan Blue", "description": "Also known as Super Saiyan God Super Saiyan, it combines Super Saiyan God power with Super Saiyan form."},
+    {"name": "Ultra Instinct", "description": "A state of heightened reflexes and instinctual fighting, transcending standard transformations."},
+    {"name": "Beast", "description": "A powerful transformation that Gohan achieves, showcasing immense rage and power."},
+    {"name": "Spirit Bomb", "description": "A powerful attack created from energy gathered from living beings."},
+    {"name": "Fusion", "description": "A technique that merges two characters into one, combining their powers and abilities."},
+    {"name": "Vegito", "description": "A fusion of Goku and Vegeta, featuring immense strength and abilities."},
+    {"name": "Gogeta", "description": "Another fusion form of Goku and Vegeta, known for his speed and strength."},
+    {"name": "Super Saiyan Rose", "description": "A transformation unique to Goku Black, exhibiting divine energy and power."},
+    {"name": "Super Saiyan Blue Evolution", "description": "An advanced form of Super Saiyan Blue with even greater power."},
+    {"name": "Mystic Gohan", "description": "Gohan's ultimate form, unlocking his latent potential without transformation."},
+    {"name": "Golden Frieza", "description": "Frieza's transformation that grants him immense power and speed."}
+    // Add more transformations here to reach 100+
+  ]
+}
