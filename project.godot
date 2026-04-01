@@ -1,0 +1,9 @@
+[general]
+name="My Godot Project"
+version="1.0"
+
+[rendering]
+vulkan_enable=true
+
+[application]
+run/main_scene="res://scene/main.tscn"
